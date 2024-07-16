@@ -1,5 +1,5 @@
 # Lunar_sat_dynamics
-Implementation of the dynamics of a satellite orbiting the Moon. Includes multiple lunar gravity field models and some numerical simulations as examples
+Implementation of the dynamics of a satellite orbiting the Moon using SatelliteDynamics.jl as a backend. Includes multiple lunar gravity field models and some numerical simulations as examples
 To run a simulation, just use: 
 
 _run_sim(x0, Δt, tf)_ 
